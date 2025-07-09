@@ -29,7 +29,7 @@ This project predicts the winner of an Indian Premier League (IPL) cricket match
 - Excluded Kochi Tuskers Kerala matches due to limited data.
 
 
-## 🤖 Models Implemented
+## Models Implemented
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Bernoulli Naive Bayes
